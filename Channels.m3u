@@ -3,3 +3,5 @@
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="Movies;Series",HBO 2 East (720p)
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="Animation",Adult Swim Samurai Jack (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
